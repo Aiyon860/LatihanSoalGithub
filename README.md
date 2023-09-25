@@ -3,7 +3,7 @@
 ## Preview:
 📁 Folder dan file yang ditaruh di sini untuk tempat penyimpanan tugas selama kuliah, khususnya di bidang <sup>*programming*</sup>.
 
-## Languages and Tools
+## Languages and Tools (will be updated frequently)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="c" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="python" width="40" height="40"/>
